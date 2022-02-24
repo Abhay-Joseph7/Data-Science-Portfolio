@@ -3,4 +3,4 @@ Repository contains Data Science projects made by me for academic, self-learning
 
 ## Contents
 * ### Machine Learning Projects
-* * https://github.com/Abhay-Joseph7/Data-Science-Portfolio/tree/master/ML%20with%20Linear%20Regression
+  * https://github.com/Abhay-Joseph7/Data-Science-Portfolio/tree/master/ML%20with%20Linear%20Regression
